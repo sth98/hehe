@@ -4,5 +4,5 @@ def factorial(n):
     else:
         return n * factorial(n-1)
 
-num = 5
+num = 19
 print(factorial(num))
